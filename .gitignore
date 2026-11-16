@@ -1,0 +1,7 @@
+.venv/
+.asr-models/
+.asr-deps/
+__pycache__/
+*.pyc
+*.tmp
+STAG_SECOND_CHANNEL/knowledge/transcription_errors.log

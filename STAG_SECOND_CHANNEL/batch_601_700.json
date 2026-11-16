@@ -1,0 +1,802 @@
+[
+  {
+    "position": 601,
+    "message_id": 10991,
+    "date": "30.08.2025 19:39:30 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_601@30-08-2025_19-39-30.ogg",
+    "sha256": "1cd7193f643f6a9b401a5b850787347bc47f164eb1ab080b1856dd5b42f37836"
+  },
+  {
+    "position": 602,
+    "message_id": 10992,
+    "date": "30.08.2025 19:40:40 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_602@30-08-2025_19-40-40.ogg",
+    "sha256": "636cbe210f9d4d16dec9586e4c372e6cf892a8f17a93b3d4e082e4a823a01f91"
+  },
+  {
+    "position": 603,
+    "message_id": 10993,
+    "date": "30.08.2025 19:45:48 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_603@30-08-2025_19-45-48.ogg",
+    "sha256": "ddc1d3055bc7a8351bf5c5ff725433b545cc6332a35988c8b907b3f113bb4fc3"
+  },
+  {
+    "position": 604,
+    "message_id": 10994,
+    "date": "30.08.2025 19:50:26 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_604@30-08-2025_19-50-26.ogg",
+    "sha256": "f45581c1ec18fbed84970701b9df0de635cfa861defdefc29bbd655759dc9ba4"
+  },
+  {
+    "position": 605,
+    "message_id": 10995,
+    "date": "31.08.2025 21:19:23 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_605@31-08-2025_21-19-23.ogg",
+    "sha256": "f5cbbe1f960bf96e97af4ca211e5cbb4dc4023e7ac86a939421546dedfcd0ca3"
+  },
+  {
+    "position": 606,
+    "message_id": 10996,
+    "date": "31.08.2025 21:19:56 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_606@31-08-2025_21-19-56.ogg",
+    "sha256": "597afc6d4d9f592e9fc358dc89dfa0800e740998bd274f786ece43c412f877fd"
+  },
+  {
+    "position": 607,
+    "message_id": 11006,
+    "date": "02.09.2025 13:42:05 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_607@02-09-2025_13-42-05.ogg",
+    "sha256": "cc80c27ee0dfbfd4cdbf0c1f148e41b4b46810c9ac77440940e0558e530bb915"
+  },
+  {
+    "position": 608,
+    "message_id": 11007,
+    "date": "02.09.2025 13:42:48 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_608@02-09-2025_13-42-48.ogg",
+    "sha256": "162eb6401daf4071108844b975115a27b5e97e19f67e6d8f8fd76a384044d35b"
+  },
+  {
+    "position": 609,
+    "message_id": 11008,
+    "date": "02.09.2025 13:44:29 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_609@02-09-2025_13-44-29.ogg",
+    "sha256": "605e826e28e2445605191a6b7979b11fa4106f1a681d85f15de967289ccc604e"
+  },
+  {
+    "position": 610,
+    "message_id": 11012,
+    "date": "02.09.2025 20:47:10 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_610@02-09-2025_20-47-10.ogg",
+    "sha256": "8b614132a8bea038e005d9104ada18617922ad2bc710920c0a101719d96d5217"
+  },
+  {
+    "position": 611,
+    "message_id": 11013,
+    "date": "02.09.2025 21:01:20 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_611@02-09-2025_21-01-20.ogg",
+    "sha256": "d5ab82c37bae757a90bbb7340b968b8c56a2ab447352550d668d8282a7b60229"
+  },
+  {
+    "position": 612,
+    "message_id": 11014,
+    "date": "02.09.2025 21:06:07 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_612@02-09-2025_21-06-07.ogg",
+    "sha256": "6093443b9f5a63c687e660bab102f980a9864456fa03f5e55217dc410aa0b535"
+  },
+  {
+    "position": 613,
+    "message_id": 11016,
+    "date": "02.09.2025 21:11:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_613@02-09-2025_21-11-21.ogg",
+    "sha256": "ca4aac9315cc4125c2986bb1495b7e5aff20c9249bec36e0ca56673d32653464"
+  },
+  {
+    "position": 614,
+    "message_id": 11023,
+    "date": "03.09.2025 12:10:41 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_614@03-09-2025_12-10-41.ogg",
+    "sha256": "ec86bcfd6d8a61f7909f74e1aa5f8cc9d4730f6900b5a8bc1b1a34885e3e3b31"
+  },
+  {
+    "position": 615,
+    "message_id": 11024,
+    "date": "03.09.2025 12:16:42 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_615@03-09-2025_12-16-42.ogg",
+    "sha256": "07375783ff7f648810c902134ad4bb632a04313d0379193f672839ff47c21069"
+  },
+  {
+    "position": 616,
+    "message_id": 11025,
+    "date": "03.09.2025 12:27:31 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_616@03-09-2025_12-27-31.ogg",
+    "sha256": "1fd60d83b6f5d0fff633884c8782204b260fde0094b60ff6b32b3961f79daac9"
+  },
+  {
+    "position": 617,
+    "message_id": 11026,
+    "date": "03.09.2025 12:31:27 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_617@03-09-2025_12-31-27.ogg",
+    "sha256": "9085342d301e6e3041e86493f2d51fb0587f9f1685fb6914dc8a2fafe2353441"
+  },
+  {
+    "position": 618,
+    "message_id": 11029,
+    "date": "03.09.2025 14:01:58 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_618@03-09-2025_14-01-58.ogg",
+    "sha256": "6ef9eebc65e90db09e758bccd31569e78982efe87e7545865f1bfda54ccde5b7"
+  },
+  {
+    "position": 619,
+    "message_id": 11031,
+    "date": "03.09.2025 20:28:07 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_619@03-09-2025_20-28-07.ogg",
+    "sha256": "c26dbc48352114ed6b0a28649885373602f63e199f0ca96bd7870a008fdd5c57"
+  },
+  {
+    "position": 620,
+    "message_id": 11034,
+    "date": "04.09.2025 11:48:48 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_620@04-09-2025_11-48-48.ogg",
+    "sha256": "8f2a009207e842c12b3ac872a9c718ac0f488b2a191b75ba537005ae51862e77"
+  },
+  {
+    "position": 621,
+    "message_id": 11036,
+    "date": "04.09.2025 11:53:29 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_621@04-09-2025_11-53-29.ogg",
+    "sha256": "c2e8e3fad398771438850bf6c065db3c3a5cbaa61ca5b534e251f995fecf06b8"
+  },
+  {
+    "position": 622,
+    "message_id": 11039,
+    "date": "05.09.2025 12:49:26 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_622@05-09-2025_12-49-26.ogg",
+    "sha256": "84fff87403b0a1e631c64ab27514ffb9f6fe41b69d86295272d5353863dd02e4"
+  },
+  {
+    "position": 623,
+    "message_id": 11052,
+    "date": "07.09.2025 15:25:17 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_623@07-09-2025_15-25-17.ogg",
+    "sha256": "df38a326e01ea1729372affdc3cc5a4a628d82a4e8dae49156ed1cd5770dd99e"
+  },
+  {
+    "position": 624,
+    "message_id": 11053,
+    "date": "07.09.2025 15:28:16 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_624@07-09-2025_15-28-16.ogg",
+    "sha256": "84b073914617a12b972e3d07ddb12bc2de10c390d0e89b7340f6199f82717985"
+  },
+  {
+    "position": 625,
+    "message_id": 11054,
+    "date": "07.09.2025 15:33:49 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_625@07-09-2025_15-33-49.ogg",
+    "sha256": "82d5414db83f877db6849366cba260d2abd486c6e71e474bcd8fa7d1771b5d2e"
+  },
+  {
+    "position": 626,
+    "message_id": 11056,
+    "date": "07.09.2025 16:24:08 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_626@07-09-2025_16-24-08.ogg",
+    "sha256": "a3541ca3c8339b0ac47ffd5af8274b2ce7e847fbd5101d6e98333c150252425a"
+  },
+  {
+    "position": 627,
+    "message_id": 11057,
+    "date": "07.09.2025 16:29:08 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_627@07-09-2025_16-29-08.ogg",
+    "sha256": "0aa7b0d4881f466da9d50b1ad061e5e4ae25c923c8475bcd661e858dc9aabfaf"
+  },
+  {
+    "position": 628,
+    "message_id": 11058,
+    "date": "07.09.2025 16:31:27 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_628@07-09-2025_16-31-27.ogg",
+    "sha256": "76391bb117fb0b5ddbac80f9d0ace5fa7cd62ab6c208d25530310bf04a23de3b"
+  },
+  {
+    "position": 629,
+    "message_id": 11066,
+    "date": "08.09.2025 11:13:34 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_629@08-09-2025_11-13-34.ogg",
+    "sha256": "0635d9b9f9adf383d3fe56461d58c055ad28dce446ac2a09e4fc2453f0d234ed"
+  },
+  {
+    "position": 630,
+    "message_id": 11067,
+    "date": "08.09.2025 11:15:30 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_630@08-09-2025_11-15-30.ogg",
+    "sha256": "8820736c854a2b35d9eb24e17a8652309f0a17b66d9038faf08567c7585142ae"
+  },
+  {
+    "position": 631,
+    "message_id": 11068,
+    "date": "08.09.2025 11:18:13 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_631@08-09-2025_11-18-13.ogg",
+    "sha256": "3432debecfaf279d3313c588b7a301d92294671a69f1640ff965013576353616"
+  },
+  {
+    "position": 632,
+    "message_id": 11069,
+    "date": "08.09.2025 11:21:54 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_632@08-09-2025_11-21-54.ogg",
+    "sha256": "84dd900feb14be0017d17d8a951cca25c35552511235c0d64d520b8d857e99aa"
+  },
+  {
+    "position": 633,
+    "message_id": 11070,
+    "date": "08.09.2025 11:25:14 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_633@08-09-2025_11-25-14.ogg",
+    "sha256": "3a871888e228e55f6b582e7b357be3be963852937fa819c695b8e1740a28e50a"
+  },
+  {
+    "position": 634,
+    "message_id": 11071,
+    "date": "08.09.2025 11:26:48 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_634@08-09-2025_11-26-48.ogg",
+    "sha256": "4d40aa8777f19b67b6acba406f57dd173e3f892202d99b257982a41bf5d6f144"
+  },
+  {
+    "position": 635,
+    "message_id": 11072,
+    "date": "08.09.2025 11:27:16 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_635@08-09-2025_11-27-16.ogg",
+    "sha256": "d5db47e89595fcf645dc512eb7d8cc54b72de7b2ca9f0932c1117180386a6ee3"
+  },
+  {
+    "position": 636,
+    "message_id": 11073,
+    "date": "08.09.2025 11:27:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_636@08-09-2025_11-27-21.ogg",
+    "sha256": "ee197c1e326d588f52defa0f610be8018a45d3397ac9069e2738bdf1bf26468e"
+  },
+  {
+    "position": 637,
+    "message_id": 11080,
+    "date": "08.09.2025 19:45:13 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_637@08-09-2025_19-45-13.ogg",
+    "sha256": "5348cdacb90177a61e534c9bab6b0b94e9d7282c274fb28b93e85ecf5c69397b"
+  },
+  {
+    "position": 638,
+    "message_id": 11092,
+    "date": "09.09.2025 20:38:11 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_638@09-09-2025_20-38-11.ogg",
+    "sha256": "7e18cba6adf8b509d0a802a2224aaf1d7b1ac1e97c7c82300dba45dd6d754aa0"
+  },
+  {
+    "position": 639,
+    "message_id": 11098,
+    "date": "11.09.2025 10:54:57 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_639@11-09-2025_10-54-57.ogg",
+    "sha256": "0cf21389ce2904db6ebf44c9e7be4ee8872a6e43430397b799db373b73a8ed14"
+  },
+  {
+    "position": 640,
+    "message_id": 11104,
+    "date": "11.09.2025 17:00:34 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_640@11-09-2025_17-00-34.ogg",
+    "sha256": "cbbf215df3578f69c5e4521352e81ea2dcea6ec5a5720d99d2c62804376fbdae"
+  },
+  {
+    "position": 641,
+    "message_id": 11107,
+    "date": "12.09.2025 11:29:20 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_641@12-09-2025_11-29-20.ogg",
+    "sha256": "080e0506a6796ce8e2a9a8bdc12c2ca3c08ca36116aa6e2552dd69618d9d59dd"
+  },
+  {
+    "position": 642,
+    "message_id": 11111,
+    "date": "12.09.2025 11:37:05 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_642@12-09-2025_11-37-05.ogg",
+    "sha256": "a0a09aecc85a28db62eed8a779be86de3bd35842bc98b587781c2f427ccf9f0a"
+  },
+  {
+    "position": 643,
+    "message_id": 11112,
+    "date": "12.09.2025 11:40:30 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_643@12-09-2025_11-40-30.ogg",
+    "sha256": "8e9760a0cbf516047c9d6d70f099699b6153ca7fff2f50d4c7188f5d56e42c15"
+  },
+  {
+    "position": 644,
+    "message_id": 11118,
+    "date": "12.09.2025 17:19:24 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_644@12-09-2025_17-19-24.ogg",
+    "sha256": "f9aa7d5f771b9fba53b2eddd2e3a73ece19aff8d4471331ca880a077302098e3"
+  },
+  {
+    "position": 645,
+    "message_id": 11119,
+    "date": "12.09.2025 17:20:23 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_645@12-09-2025_17-20-23.ogg",
+    "sha256": "b8a6c3582447c22e4ee8a2af9b26a9a4688f3bd3e3a2f6128bb1055f65a1fd8f"
+  },
+  {
+    "position": 646,
+    "message_id": 11120,
+    "date": "12.09.2025 17:22:57 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_646@12-09-2025_17-22-57.ogg",
+    "sha256": "e2ddb155106183a20a782019101eaed8fe912b3c9fb62ee83760ac4fa772991a"
+  },
+  {
+    "position": 647,
+    "message_id": 11121,
+    "date": "12.09.2025 17:25:52 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_647@12-09-2025_17-25-52.ogg",
+    "sha256": "68ffe2b690ee56272954b09ffa19b189e7015362400be5317dd021e81750b442"
+  },
+  {
+    "position": 648,
+    "message_id": 11123,
+    "date": "12.09.2025 19:06:43 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_648@12-09-2025_19-06-43.ogg",
+    "sha256": "377c2b29ef5ed7553886c049a5574b0779986f4046de77244cc62ee3fe6e07ae"
+  },
+  {
+    "position": 649,
+    "message_id": 11124,
+    "date": "12.09.2025 19:08:57 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_649@12-09-2025_19-08-57.ogg",
+    "sha256": "495e6490c7059aeebbad323e1edb7a17126d16b84191a6a261e893df6a7e38a8"
+  },
+  {
+    "position": 650,
+    "message_id": 11134,
+    "date": "14.09.2025 17:49:54 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_650@14-09-2025_17-49-54.ogg",
+    "sha256": "bcbcdd0a92bcd32fa41ce0e12262472e2a86ba7ca16fc5e8ad945c50e49901db"
+  },
+  {
+    "position": 651,
+    "message_id": 11135,
+    "date": "14.09.2025 17:50:38 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_651@14-09-2025_17-50-38.ogg",
+    "sha256": "96220fca8244adde2b6cbf6ecc0ff524843281ae9d8dac58598cac5d8e708454"
+  },
+  {
+    "position": 652,
+    "message_id": 11139,
+    "date": "14.09.2025 21:33:30 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_652@14-09-2025_21-33-30.ogg",
+    "sha256": "51bd26dbf406494f47ec17ffe711e8a5703fc18f62f6c49894e0f3fabdc83b4d"
+  },
+  {
+    "position": 653,
+    "message_id": 11140,
+    "date": "14.09.2025 21:35:49 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_653@14-09-2025_21-35-49.ogg",
+    "sha256": "7b7d8c34433fc4457be2238a188480bf0d7b00b9cd4d2dcdeb73201cf9c1dd39"
+  },
+  {
+    "position": 654,
+    "message_id": 11154,
+    "date": "16.09.2025 10:59:17 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_654@16-09-2025_10-59-17.ogg",
+    "sha256": "affaeeeab66b2a4ea3f4e5b736237ab1551ef319729cb81d2fe9704228b81d54"
+  },
+  {
+    "position": 655,
+    "message_id": 11156,
+    "date": "16.09.2025 11:36:28 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_655@16-09-2025_11-36-28.ogg",
+    "sha256": "9dd6a711da7fe2dc5e8cc8777196c8f3ce5de962c7ed277e044352a6ffc64f2e"
+  },
+  {
+    "position": 656,
+    "message_id": 11157,
+    "date": "16.09.2025 11:39:14 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_656@16-09-2025_11-39-14.ogg",
+    "sha256": "4ed287cb30ff1c5bc36645a932c404b559d1378e46ef89b2c0f4fb258f60a999"
+  },
+  {
+    "position": 657,
+    "message_id": 11158,
+    "date": "16.09.2025 11:41:54 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_657@16-09-2025_11-41-54.ogg",
+    "sha256": "dd2a1e0399c2a5760b40150712e36516f90a0992b510cc25823e93cb272ecd3c"
+  },
+  {
+    "position": 658,
+    "message_id": 11160,
+    "date": "16.09.2025 18:44:10 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_658@16-09-2025_18-44-10.ogg",
+    "sha256": "a6a67f53dff679bc146618c5d065ab36c335bfe27033f26fd97c4740ceb3b435"
+  },
+  {
+    "position": 659,
+    "message_id": 11171,
+    "date": "17.09.2025 20:55:10 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_659@17-09-2025_20-55-10.ogg",
+    "sha256": "257df1d6fb6a4d034c63484ffb6293b113c973cec90e8e20f1647f67b2849f96"
+  },
+  {
+    "position": 660,
+    "message_id": 11172,
+    "date": "17.09.2025 20:56:17 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_660@17-09-2025_20-56-17.ogg",
+    "sha256": "2988892db7f251a290ccf56d8b1cfdba1b6a10bd48ed4fd6e71ed7e66019eeb9"
+  },
+  {
+    "position": 661,
+    "message_id": 11178,
+    "date": "18.09.2025 13:48:25 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_661@18-09-2025_13-48-25.ogg",
+    "sha256": "0335f794bd47681590ba49277a253e64226906db842935c5619af6c22050b3fb"
+  },
+  {
+    "position": 662,
+    "message_id": 11183,
+    "date": "19.09.2025 11:40:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_662@19-09-2025_11-40-21.ogg",
+    "sha256": "5ad0a77b4df7a94d2de1324246067eaace6368f984692c2bd221c91524b0fa19"
+  },
+  {
+    "position": 663,
+    "message_id": 11184,
+    "date": "19.09.2025 11:41:20 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_663@19-09-2025_11-41-20.ogg",
+    "sha256": "0f6454a7d7b600a6105fbc7260a26d56de6047d8ab09e5a4aeca7f384044c7ec"
+  },
+  {
+    "position": 664,
+    "message_id": 11191,
+    "date": "20.09.2025 21:20:37 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_664@20-09-2025_21-20-37.ogg",
+    "sha256": "4328b172a81a42327c3eb96f432146bbfccc6fa9e4dee76de529b9f54a45c150"
+  },
+  {
+    "position": 665,
+    "message_id": 11192,
+    "date": "20.09.2025 21:21:27 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_665@20-09-2025_21-21-27.ogg",
+    "sha256": "488c779530c65408e74a6e9304adb5bcdbf6a745584215aee45f03e6da5c2fcb"
+  },
+  {
+    "position": 666,
+    "message_id": 11210,
+    "date": "23.09.2025 01:20:41 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_666@23-09-2025_01-20-41.ogg",
+    "sha256": "d38a6b5b27e201c80d8015abc61ba50796b0be98e4d151c2b4ee9b2580b4dfa8"
+  },
+  {
+    "position": 667,
+    "message_id": 11215,
+    "date": "23.09.2025 12:35:46 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_667@23-09-2025_12-35-46.ogg",
+    "sha256": "4f38758ce3b79b6285e3caad20937d502432f453d6d68000906856eba1304f8b"
+  },
+  {
+    "position": 668,
+    "message_id": 11216,
+    "date": "23.09.2025 12:40:20 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_668@23-09-2025_12-40-20.ogg",
+    "sha256": "6d4eb4b7c89331a06a7744258da984cc6197cf2d45f3c790f11d5d095660f194"
+  },
+  {
+    "position": 669,
+    "message_id": 11217,
+    "date": "23.09.2025 12:47:47 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_669@23-09-2025_12-47-47.ogg",
+    "sha256": "43b07aa1f56e3700ef431de468ce11e0f3375a3415d43ec9f07cc92b3947bf8a"
+  },
+  {
+    "position": 670,
+    "message_id": 11218,
+    "date": "23.09.2025 12:53:13 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_670@23-09-2025_12-53-13.ogg",
+    "sha256": "c0d80021ab13a6fe4dfc6b1cbf89b308777b6d0ba15aa8adeaf39b0473c4cd8b"
+  },
+  {
+    "position": 671,
+    "message_id": 11222,
+    "date": "23.09.2025 23:58:45 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_671@23-09-2025_23-58-45.ogg",
+    "sha256": "cbc252977d204f6a37870f38e894100163dbe60893f51d0fb07d8dfed132fdbd"
+  },
+  {
+    "position": 672,
+    "message_id": 11231,
+    "date": "24.09.2025 15:18:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_672@24-09-2025_15-18-21.ogg",
+    "sha256": "1e43cb121c9be2ee3600d167fb39a2965fcb2e513262d8531162c6eccf8caf12"
+  },
+  {
+    "position": 673,
+    "message_id": 11248,
+    "date": "29.09.2025 11:30:08 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_673@29-09-2025_11-30-08.ogg",
+    "sha256": "5b30d9c05f9dfb9badb3dcb3f0eb8f2f190c9d25c3db1952f768f4865b80706f"
+  },
+  {
+    "position": 674,
+    "message_id": 11251,
+    "date": "29.09.2025 20:21:50 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_674@29-09-2025_20-21-50.ogg",
+    "sha256": "61bea0be7138d0b7405838c0ec798d8d9b137907ac596ffdc56961f3ec5a696d"
+  },
+  {
+    "position": 675,
+    "message_id": 11263,
+    "date": "07.10.2025 10:50:39 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_675@07-10-2025_10-50-39.ogg",
+    "sha256": "3c848571c35a28410554639e9443fb0850d9de4ea1d0586e00f304f4e93ff9ad"
+  },
+  {
+    "position": 676,
+    "message_id": 11264,
+    "date": "08.10.2025 19:12:28 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_676@08-10-2025_19-12-28.ogg",
+    "sha256": "2a83927dca5098d013da88eda12cbd2babd67ba185ac74d83081670c706a5f8b"
+  },
+  {
+    "position": 677,
+    "message_id": 11265,
+    "date": "08.10.2025 19:13:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_677@08-10-2025_19-13-21.ogg",
+    "sha256": "c313c43fab52fbcc19e185811c2e250b54237e9ec5e10295829e422f7d6c905b"
+  },
+  {
+    "position": 678,
+    "message_id": 11268,
+    "date": "09.10.2025 13:08:00 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_678@09-10-2025_13-08-00.ogg",
+    "sha256": "849de95d6be2c347365a6efc038fb356dfe3dd5928bea0839caa2b1528e87bff"
+  },
+  {
+    "position": 679,
+    "message_id": 11269,
+    "date": "09.10.2025 13:09:25 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_679@09-10-2025_13-09-25.ogg",
+    "sha256": "1f75861c297221ed30d032bc89cebf0f54e4705f02c658201bdc13ae46db7e8a"
+  },
+  {
+    "position": 680,
+    "message_id": 11279,
+    "date": "12.10.2025 13:42:43 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_680@12-10-2025_13-42-43.ogg",
+    "sha256": "026d4099fe7d5a9ce59906c96c522588ef5b65b7594f0944cb902d32d3ffa5f8"
+  },
+  {
+    "position": 681,
+    "message_id": 11280,
+    "date": "12.10.2025 15:42:21 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_681@12-10-2025_15-42-21.ogg",
+    "sha256": "c1e1067f7a915a0cb8d3650c1f7a2b21cae293e3307cfb4620dca2b2b25a80b4"
+  },
+  {
+    "position": 682,
+    "message_id": 11281,
+    "date": "12.10.2025 15:43:03 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_682@12-10-2025_15-43-03.ogg",
+    "sha256": "b8f2e03a411b9796c37ec088ca608959c5a8620dec34ff2c8053b226e453ca09"
+  },
+  {
+    "position": 683,
+    "message_id": 11282,
+    "date": "12.10.2025 15:45:40 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_683@12-10-2025_15-45-40.ogg",
+    "sha256": "f01df50adc875260e9a9174ccbdf8bc18fa2edd046ae3082b1fdc1064e9b0eda"
+  },
+  {
+    "position": 684,
+    "message_id": 11283,
+    "date": "12.10.2025 15:50:47 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_684@12-10-2025_15-50-47.ogg",
+    "sha256": "7c5dee961bb4540b28aa18286b9c642298986ebe734b6b8b2de0079b09f398aa"
+  },
+  {
+    "position": 685,
+    "message_id": 11288,
+    "date": "13.10.2025 12:02:55 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_685@13-10-2025_12-02-55.ogg",
+    "sha256": "405452a025ffdfdb673d502b65fa9559807a3b760446010454c459f46a248087"
+  },
+  {
+    "position": 686,
+    "message_id": 11290,
+    "date": "13.10.2025 12:16:10 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_686@13-10-2025_12-16-10.ogg",
+    "sha256": "c740ef77402fd39b6790e384f0bdc2417d74024ab6a3e9955db42830ec9e2cef"
+  },
+  {
+    "position": 687,
+    "message_id": 11293,
+    "date": "13.10.2025 19:19:53 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_687@13-10-2025_19-19-53.ogg",
+    "sha256": "8121d9755637a89425cfec120b85f4b21832b8aa2acc7b838647355cc5202d3c"
+  },
+  {
+    "position": 688,
+    "message_id": 11300,
+    "date": "13.10.2025 20:00:03 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_688@13-10-2025_20-00-03.ogg",
+    "sha256": "a79f5f9fa27c2485ea8978928c3dfd3db4693fd4684c9809265b4258fc7dc053"
+  },
+  {
+    "position": 689,
+    "message_id": 11304,
+    "date": "14.10.2025 20:15:26 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_689@14-10-2025_20-15-26.ogg",
+    "sha256": "a0312ec64c3a7d094727f5ae12e4350549715db9d3b5d3a26a600d7ed9256511"
+  },
+  {
+    "position": 690,
+    "message_id": 11311,
+    "date": "15.10.2025 17:08:08 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_690@15-10-2025_17-08-08.ogg",
+    "sha256": "e84f7c5469b52297fd4747e7ed896375c7e24cf0f8732195c03dff1cbd4bfb94"
+  },
+  {
+    "position": 691,
+    "message_id": 11315,
+    "date": "16.10.2025 15:42:38 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_691@16-10-2025_15-42-38.ogg",
+    "sha256": "3a26b5d5f906bf86fdb33fef1db8fc0ac38203a0e85242e9a69940e2c4417f12"
+  },
+  {
+    "position": 692,
+    "message_id": 11321,
+    "date": "17.10.2025 11:10:47 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_692@17-10-2025_11-10-47.ogg",
+    "sha256": "e75042c31509c1d11188cdcd008d76c5125822a899c535123484408d335e1f4b"
+  },
+  {
+    "position": 693,
+    "message_id": 11323,
+    "date": "17.10.2025 11:11:51 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_693@17-10-2025_11-11-51.ogg",
+    "sha256": "37173937b8acad22699ca73714196e6e88efcc93441dfc6e909c4234bd19f07a"
+  },
+  {
+    "position": 694,
+    "message_id": 11331,
+    "date": "19.10.2025 19:06:23 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_694@19-10-2025_19-06-23.ogg",
+    "sha256": "02c0e315496569a4c9d8c4d85feb7be48629a8f84c9088a51c7d0ad69df6ae0f"
+  },
+  {
+    "position": 695,
+    "message_id": 11339,
+    "date": "20.10.2025 15:51:23 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_695@20-10-2025_15-51-23.ogg",
+    "sha256": "399c7fe4ded7bf932e725fc08384fa6d2124bedefc83d3c7e70b488249d9f7b5"
+  },
+  {
+    "position": 696,
+    "message_id": 11340,
+    "date": "20.10.2025 15:56:26 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_696@20-10-2025_15-56-26.ogg",
+    "sha256": "48a762dbfaad7976884846762e6e6dba71ff8b804b774a70cd9f6b945367e22d"
+  },
+  {
+    "position": 697,
+    "message_id": 11346,
+    "date": "21.10.2025 14:26:38 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_697@21-10-2025_14-26-38.ogg",
+    "sha256": "d0286358f389d606fa488f86526d394fd7cb586ddba8f5bf7631edfeb13d831a"
+  },
+  {
+    "position": 698,
+    "message_id": 11347,
+    "date": "21.10.2025 14:26:57 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_698@21-10-2025_14-26-57.ogg",
+    "sha256": "9b6ab41d3214a20e2e3bf1d8022ed9cf3e8c2c187576e7fe36573dc03892b7da"
+  },
+  {
+    "position": 699,
+    "message_id": 11348,
+    "date": "21.10.2025 14:27:06 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_699@21-10-2025_14-27-06.ogg",
+    "sha256": "c6ecea5453bcb40306947743f021bcacc35d7338f5ab7eb79946c1cdf45d73d5"
+  },
+  {
+    "position": 700,
+    "message_id": 11349,
+    "date": "21.10.2025 20:28:14 GMT+03:00",
+    "author": "УПРАВЛЕНИЕ КАПИТАЛОМ STAG _ Алекс Грей",
+    "voice_file": "voice_messages/audio_700@21-10-2025_20-28-14.ogg",
+    "sha256": "89629fca0fa3a6f1edfdf6576f80008c17c493b74fc55365ed30da467de66f55"
+  }
+]
